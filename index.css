@@ -411,7 +411,8 @@
         display: block;
     }
     .mainWrapperTopPosition img {
-        height: 300px;
+        width: 100%;
+        height: 400px;
     }
 }
 @media (max-width: 378px) {
