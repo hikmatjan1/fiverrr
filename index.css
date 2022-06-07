@@ -427,4 +427,7 @@
     .header {
         padding-left: 15px;
     }
+    .mainRightTop {
+        gap: 30px;
+    }
 }
